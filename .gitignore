@@ -1,0 +1,4 @@
+.DB_Store
+/jwdesignpattern/*
+*.xcodeproj
+!/jwdesignpattern/noignore/
